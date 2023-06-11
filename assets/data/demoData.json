@@ -1,0 +1,30 @@
+{
+  "day": [
+    { "time": "12AM", "value": 3 },
+    { "time": "3AM", "value": 4 },
+    { "time": "6AM", "value": 2 },
+    { "time": "9AM", "value": 5 },
+    { "time": "10PM", "value": 2 },
+    { "time": "11PM", "value": 6 },
+    { "time": "12PM", "value": 4 },
+    { "time": "4PM", "value": 1 }
+  ],
+  "hours": [
+    { "time": "1h", "value": 2 },
+    { "time": "2h", "value": 3 },
+    { "time": "3h", "value": 4 },
+    { "time": "4h", "value": 1 },
+    { "time": "5h", "value": 2 },
+    { "time": "6h", "value": 3 },
+    { "time": "7h", "value": 2 },
+    { "time": "8h", "value": 4 },
+    { "time": "9h", "value": 3 }
+  ],
+  "week": [
+    { "day": "Monday", "value": 4 },
+    { "day": "Tuesday", "value": 3 },
+    { "day": "Wednesday", "value": 5 },
+    { "day": "Thursday", "value": 2 },
+    { "day": "Friday", "value": 4 }
+  ]
+}
